@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on my current project.
 - 📫 How to reach me: vlnemilov@yahoo.com
 - 😄 Pronouns: He/Him
-- <!--⚡ Fun fact:>
+<!--- ⚡ Fun fact:>
 
 
 <!---
