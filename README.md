@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I love solving chess puzzles!
 
 ### 🚀 Skills
-- **Languages**: C, C++, Python, JavaScript
+- **Languages**: C
 - **Tools**: Git, GitHub, VSCode, Vim
 - **Technologies**: Linux, Shell Scripting, Unity
 <!--
