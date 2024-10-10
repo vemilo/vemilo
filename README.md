@@ -11,7 +11,7 @@ I enjoy solving complex problems and collaborating on innovative projects.
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![Vim](https://img.shields.io/badge/-Vim-019733?logo=vim&logoColor=white&style=for-the-badge)
-
+<!--![C](https://camo.githubusercontent.com/53b27cbad05c013d17c92bd9a820d0e7d9f5199f88ffc827dae965b4ac0657ca/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d63)-->
 ### 🌟 Featured Projects:
 - [**Project Alpha**](https://github.com/vemilo/Alpha)  
   A C-based project exploring advanced algorithms for chess strategy.
