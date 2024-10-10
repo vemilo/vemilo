@@ -25,6 +25,8 @@
 - [Codecademy](https://www.codecademy.com)
 - [W3Schools](https://www.w3schools.com)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
 <!-- 💞️ I’m looking to collaborate on my current project. -->
 <!--- ⚡ Fun fact: I love solving puzzles! -->
 <!---
