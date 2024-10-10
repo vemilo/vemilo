@@ -25,14 +25,7 @@ I enjoy solving complex problems and collaborating on innovative projects.
 - [Email Me](mailto:vlnemilov@yahoo.com)
 
 
-![Visitor Badge](https://shields.io/badge/dynamic/jsoncolor=informational&label=Visitors&query=value&url=https://api.countapi.xyz/hit/yourusername.github.io/visits)
-
 
 ![Coding GIF](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
-
-
-
-
-
 
 
