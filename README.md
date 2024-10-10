@@ -24,6 +24,7 @@ I enjoy solving complex problems and collaborating on innovative projects.
 - [GitHub Profile](https://github.com/vemilo)
 - [Email Me](mailto:vlnemilov@yahoo.com)
 
+![Cool Developer GIF](https://github.com/vemilo/your-gif-file-name.gif)
 
 
 ![Coding GIF](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
