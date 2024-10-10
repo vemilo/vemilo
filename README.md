@@ -4,7 +4,6 @@
 I'm a developer passionate about C programming, open-source contributions, and chess strategy.  
 I enjoy solving complex problems and collaborating on innovative projects.
 
-
 ### 🛠️ Technologies I Use:
 ![C](https://img.shields.io/badge/-C-00599C?logo=C&logoColor=white&style=for-the-badge)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge)
@@ -23,8 +22,3 @@ I enjoy solving complex problems and collaborating on innovative projects.
 ### 📫 How to Reach Me:
 - [GitHub Profile](https://github.com/vemilo)
 - [Email Me](mailto:vlnemilov@yahoo.com)
-
-![Cool Developer GIF](https://github.com/vemilo/your-gif-file-name.gif)
-
-
-
