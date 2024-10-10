@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Veselin!
+## Hi there 👋, I'm Veselin!
 
 ### 🚀 About Me:
 I'm a developer passionate about C programming, open-source contributions, and chess strategy.  
