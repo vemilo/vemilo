@@ -4,9 +4,6 @@
 I'm a developer passionate about C programming, open-source contributions, and chess strategy.  
 I enjoy solving complex problems and collaborating on innovative projects.
 
-### 🚀 Skills:
-- **Languages**: C, Bash
-- **Tools**: Git, GitHub, VSCode, Vim
 
 ### 🛠️ Technologies I Use:
 ![C](https://img.shields.io/badge/-C-00599C?logo=C&logoColor=white&style=for-the-badge)
@@ -27,24 +24,13 @@ I enjoy solving complex problems and collaborating on innovative projects.
 - [GitHub Profile](https://github.com/vemilo)
 - [Email Me](mailto:vlnemilov@yahoo.com)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vemilo&show_icons=true&theme=radical)
-
-
-
-
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vemilo&show_icons=true&theme=radical)
-
-![C](https://img.shields.io/badge/-C-00599C?logo=C&logoColor=white&style=for-the-badge)
-
-![Coding GIF](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
 
 ![Visitor Badge](https://shields.io/badge/dynamic/jsoncolor=informational&label=Visitors&query=value&url=https://api.countapi.xyz/hit/yourusername.github.io/visits)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
 
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge)
+![Coding GIF](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
+
+
 
 
 
