@@ -25,7 +25,7 @@
 - [Codecademy](https://www.codecademy.com)
 - [W3Schools](https://www.w3schools.com)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vemilo&show_icons=true&theme=radical)
 ![C](https://img.shields.io/badge/-C-00599C?logo=C&logoColor=white&style=for-the-badge)
 ![Coding GIF](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
 ![Visitor Badge](https://shields.io/badge/dynamic/json?color=informational&label=Visitors&query=value&url=https://api.countapi.xyz/hit/yourusername.github.io/visits)
