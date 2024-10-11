@@ -23,7 +23,7 @@ I enjoy solving complex problems and collaborating on innovative projects.
 - [GitHub Profile](https://github.com/vemilo)
 - [Lichess](https://lichess.org/@/krof_citcat)
 - [Email Me](mailto:vlnemilov@yahoo.com)
-- <!--LinkedIn-->
+  <!--LinkedIn-->
 
 <!-- add chess games gif-->
 
