@@ -21,7 +21,9 @@ I enjoy solving complex problems and collaborating on innovative projects.
 
 ### 📫 How to Reach Me:
 - [GitHub Profile](https://github.com/vemilo)
+- [Lichess](https://lichess.org/@/krof_citcat)
 - [Email Me](mailto:vlnemilov@yahoo.com)
 
+<!-- add chess games gif-->
 
 ![GitHub Contribution Grid Snake](github-contribution-grid-snake.svg)
