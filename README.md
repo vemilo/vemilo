@@ -1,8 +1,7 @@
 ## Hi there 👋, I'm Veselin!
 
 ### 🚀 About Me:
-I'm a developer passionate about C programming, open-source contributions, and chess strategy.  
-I enjoy solving complex problems and collaborating on innovative projects.
+I'm a developer passionate about C programming and open-source contributions. I enjoy solving complex problems and collaborating on innovative projects.
 
 ### 🛠️ Technologies I Use:
 ![C](https://img.shields.io/badge/-C-00599C?logo=C&logoColor=white&style=for-the-badge)
