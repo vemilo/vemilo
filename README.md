@@ -17,7 +17,7 @@ Feel free to reach out to me for contributions, projects, or discussions!
 - [Email Me](mailto:vlnemilov@yahoo.com)
 - [Linkedin](www.linkedin.com/in/veselin-emilov)
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=vemilo.vemilo)
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=vemilo)
 
 
   <!-- [GitHub Profile](https://github.com/vemilo)>
